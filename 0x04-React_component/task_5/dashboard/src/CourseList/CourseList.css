@@ -1,0 +1,13 @@
+#CourseList {
+    width: 100%;
+    width: -moz-available; /* WebKit-based browsers will ignore this. */
+    width: -webkit-fill-available; /* Mozilla-based browsers will ignore this. */
+    margin: 40px;
+}
+
+table {
+    border: 1px solid #ccc;
+}
+table tr th {
+    border-bottom: 2px solid #ccc;
+}
